@@ -17,6 +17,11 @@ git reset --hard#取消本地所有修改
 
 
 更多信息可参考：
+Git本地仓库与Github远程仓库关联
 http://www.cnblogs.com/tinyphp/p/5025311.html
+
+将已有项目提交到github/从github上pull到本地
 https://my.oschina.net/u/855386/blog/353615
+
+github 怎么重复覆盖更新?
 https://segmentfault.com/q/1010000004938625/a-1020000004938973
