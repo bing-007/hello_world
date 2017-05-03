@@ -5,8 +5,10 @@
 git add .
 git commit -m"简单的描述本次修改内容"
 git push
+
 5、同步远程仓库的更改到本地仓库
 git pull
+
 6、另外有用命令
 git config --list
 git status
