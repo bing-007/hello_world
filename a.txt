@@ -1,10 +1,14 @@
 1、在本地建立 Repository
+一下命令都是在本地仓库c/lieber/github下执行。
 2、建立本地仓库和远程仓库的映射，需要ssh
 3、测试本地仓库和远程仓库的连接是否正常
 4、把更改上传到远程仓库
 git add .
 git commit -m"简单的描述本次修改内容"
 git push
+第一次上传可能需要填写邮箱和密码
+git config user.email
+git config user.name
 
 5、同步远程仓库的更改到本地仓库
 git pull
