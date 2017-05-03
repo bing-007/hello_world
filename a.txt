@@ -1,1 +1,13 @@
-123123
+1、在本地建立 Repository
+2、建立本地仓库和远程仓库的映射，需要ssh
+3、测试本地仓库和远程仓库的连接是否正常
+4、上传
+add .
+commit -m""
+push
+5、同步远程仓库
+pull
+6、
+status
+checkou取消指定文件的修改，包括删除。
+git reset --hard#取消本地所有修改
